@@ -1,4 +1,4 @@
-const apiKey = '******************';
+const apiKey = 'e55a640d41c2715ce7db32ca17fdab8c';
 
 
 const cityInput = document.getElementById('cityInput');
@@ -52,5 +52,6 @@ document.getElementById('weatherIcon').src =
 
 
 weatherCard.style.display = 'block';
+
 
 }
